@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:00.629873
+#+DATE: 2015-08-30 20:12:02.780812
 #+TITLE: 佛說光明童子因緣經
 #+PROPERTY: CBETA_ID T14n0549
 #+PROPERTY: ID KR6i0180
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 549
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0180_T_000-0854b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0180_T_001-0854b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.549¶
-
- 《佛說光明童子因緣經》卷第一¶
+No. 549¶
+《佛說光明童子因緣經》卷第一¶
 ¶
 西天譯經三藏朝奉大¶
 夫試光祿卿傳法大師¶
