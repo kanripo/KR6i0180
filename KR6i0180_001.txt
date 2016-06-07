@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:00.629873
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:49
 #+TITLE: 佛說光明童子因緣經
 #+PROPERTY: CBETA_ID T14n0549
 #+PROPERTY: ID KR6i0180
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 549
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0180_T_000-0854b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0180_T_001-0854b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.549¶
-
- 《佛說光明童子因緣經》卷第一¶
+No. 549¶
+《佛說光明童子因緣經》卷第一¶
 ¶
 西天譯經三藏朝奉大¶
 夫試光祿卿傳法大師¶
@@ -208,9 +207,9 @@ No.549¶
 　今此正法善調伏，
 　所行遠離諸過失，¶
 　息彼三界廣輪迴，
-　滅盡眾生苦邊際。」
+　滅盡眾生苦邊際。」」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊所放光明，各各隨往，乃至遍照三¶
 千大千世界。而佛世尊，雖放一光，其光收¶
@@ -260,9 +259,9 @@ No.549¶
 　大智觀察因緣事，
 　如應所作皆利益，¶
 　隨諸眾生所希望，
-　故現如是光明相。」
+　故現如是光明相。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊告阿難言：「如是！如是！阿難當知，如¶
 來、應供、正等正覺，若無因緣，不放光明。我今¶
